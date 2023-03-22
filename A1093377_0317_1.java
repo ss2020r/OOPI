@@ -18,7 +18,7 @@ public class A1093377_0317_1 {
             }
         }
 
-        System.out.println("陣列內容：");
+        System.out.println("結果：");
         for (int[] row : array) {
             for (int element : row) {
                 System.out.print(element);
